@@ -1,0 +1,7 @@
+gpt4all 
+langchain
+chromadb
+duckdb
+hydra-core==1.1.0
+unstructured
+"unstructured[pdf]"
